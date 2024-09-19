@@ -1,1 +1,3 @@
 # socket-chat
+
+Aplicação socket
